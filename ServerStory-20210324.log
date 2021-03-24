@@ -1,0 +1,21 @@
+2021-03-24 14:06:07.638 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.BaseAuthService - Сервис аутентификации запущен
+2021-03-24 14:06:07.642 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Сервер ожидает подключения.
+2021-03-24 14:07:33.043 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Клиент подключился
+2021-03-24 14:07:33.047 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Сервер ожидает подключения.
+2021-03-24 14:07:38.848 [pool-3-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick1: 3333
+2021-03-24 14:08:34.306 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Клиент подключился
+2021-03-24 14:08:34.306 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Сервер ожидает подключения.
+2021-03-24 14:08:40.374 [pool-4-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick2: yuiyiuyu
+2021-03-24 14:09:18.995 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Клиент подключился
+2021-03-24 14:09:18.996 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Сервер ожидает подключения.
+2021-03-24 14:09:23.903 [pool-5-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick3: aaaaaaaaaaa
+2021-03-24 14:10:01.504 [pool-3-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick1: hello all
+2021-03-24 14:10:42.615 [pool-3-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick1: /end
+2021-03-24 14:11:32.862 [pool-5-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick3: dddddddd
+2021-03-24 14:11:41.990 [pool-5-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick3: /end
+2021-03-24 14:12:22.777 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Клиент подключился
+2021-03-24 14:12:22.778 [main] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Сервер ожидает подключения.
+2021-03-24 14:13:18.671 [pool-6-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick3: wwwwwwww
+2021-03-24 14:13:54.646 [pool-6-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.ClientHandler - от nick3: /end
+2021-03-24 14:14:24.134 [pool-2-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.BaseAuthService - Сервис аутентификации остановлен
+2021-03-24 14:14:24.135 [pool-2-thread-1] INFO  ru.GeekBrains.Rostislav.Java3Group3.lesson2.ServerSide.MyServer - Сервер остановлен.
